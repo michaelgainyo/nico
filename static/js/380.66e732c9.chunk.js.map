@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/380.66e732c9.chunk.js","mappings":"wLAEe,SAASA,IACtB,OAAO","sources":["Logs/index.tsx"],"sourcesContent":["import * as React from 'react';\n\nexport default function Logs() {\n  return <div>Logs</div>;\n}\n"],"names":["Logs"],"sourceRoot":""}

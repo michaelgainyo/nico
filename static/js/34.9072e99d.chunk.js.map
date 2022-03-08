@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/34.9072e99d.chunk.js","mappings":"uLAEe,SAASA,IACtB,OAAO","sources":["Stats/index.tsx"],"sourcesContent":["import * as React from 'react';\n\nexport default function Stats() {\n  return <div>Stats</div>;\n}\n"],"names":["Stats"],"sourceRoot":""}

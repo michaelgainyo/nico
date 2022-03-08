@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nico/static/css/main.15b8dcf1.css",
+    "main.js": "/nico/static/js/main.62e7ae38.js",
+    "static/js/461.0e6dfa84.chunk.js": "/nico/static/js/461.0e6dfa84.chunk.js",
+    "static/js/34.9072e99d.chunk.js": "/nico/static/js/34.9072e99d.chunk.js",
+    "static/js/380.66e732c9.chunk.js": "/nico/static/js/380.66e732c9.chunk.js",
+    "static/js/153.8d38b9a3.chunk.js": "/nico/static/js/153.8d38b9a3.chunk.js",
+    "static/js/916.25650eed.chunk.js": "/nico/static/js/916.25650eed.chunk.js",
+    "index.html": "/nico/index.html",
+    "main.15b8dcf1.css.map": "/nico/static/css/main.15b8dcf1.css.map",
+    "main.62e7ae38.js.map": "/nico/static/js/main.62e7ae38.js.map",
+    "461.0e6dfa84.chunk.js.map": "/nico/static/js/461.0e6dfa84.chunk.js.map",
+    "34.9072e99d.chunk.js.map": "/nico/static/js/34.9072e99d.chunk.js.map",
+    "380.66e732c9.chunk.js.map": "/nico/static/js/380.66e732c9.chunk.js.map",
+    "153.8d38b9a3.chunk.js.map": "/nico/static/js/153.8d38b9a3.chunk.js.map",
+    "916.25650eed.chunk.js.map": "/nico/static/js/916.25650eed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b8dcf1.css",
+    "static/js/main.62e7ae38.js"
+  ]
+}

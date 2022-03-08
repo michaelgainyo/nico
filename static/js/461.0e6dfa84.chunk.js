@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_nico_clientjs=self.webpackChunk_nico_clientjs||[]).push([[461],{9461:function(n,e,c){c.r(e),c.d(e,{default:function(){return t}});c(2826);var i=c(7765);function t(){return(0,i.jsx)("div",{children:"Achievements"})}}}]);
+//# sourceMappingURL=461.0e6dfa84.chunk.js.map
