@@ -1,0 +1,15 @@
+.counter-view {
+  .count-wrapper {
+    position: relative;
+    width: 320px;
+    height: 320px;
+    border-radius: 160px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: var(--blue-50);
+  }
+}

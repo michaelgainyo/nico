@@ -1,0 +1,31 @@
+$form-border-radius: 12px;
+
+.entry-add-form {
+  textarea {
+    border-radius: $form-border-radius !important;
+    border-color: transparent !important;
+    &:focus-visible {
+      outline: none;
+    }
+  }
+
+  .miq-form {
+    border: 1px solid var(--border-color);
+    border-radius: $form-border-radius;
+
+    &:focus,
+    &:focus-within {
+      border-color: var(--blue-200);
+    }
+
+    .btn-submit {
+      width: 46px;
+      height: 46px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      border-radius: 23px;
+    }
+  }
+}
